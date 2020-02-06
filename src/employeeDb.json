@@ -1,0 +1,167 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "FirstName": "bhavin",
+      "Email": "pavan@gmail.com",
+      "Mobile": "9934567856",
+      "Address": [
+        {
+          "myaddress": "valsad"
+        },
+        {
+          "myaddress": "dungri"
+        }
+      ],
+      "Gender": "male",
+      "DeptName": "Angular",
+      "HireDate": "1999-01-06",
+      "Permenent": true
+    },
+    {
+      "id": 2,
+      "FirstName": "yash",
+      "Email": "yash@gmail.com",
+      "Mobile": "9984563545",
+      "Address": [
+        {
+          "myaddress": "valsad"
+        },
+        {
+          "myaddress": "dungri"
+        }
+      ],
+      "Gender": "male",
+      "DeptName": "ML",
+      "HireDate": "1992-11-02",
+      "Permenent": false
+    },
+    {
+      "FirstName": "vishal",
+      "Email": "vishal@gmail.com",
+      "Mobile": "9984563545",
+      "Address": [
+        {
+          "myaddress": "valsad"
+        }
+      ],
+      "Gender": "male",
+      "DeptName": ".Net",
+      "HireDate": "1997-10-07",
+      "Permenent": true,
+      "id": 3
+    },
+    {
+      "FirstName": "rudra",
+      "Email": "rudra@gmail.com",
+      "Mobile": "5656454343",
+      "Address": [
+        {
+          "myaddress": "valsad"
+        },
+        {
+          "myaddress": "dungri"
+        }
+      ],
+      "Gender": "male",
+      "DeptName": "ML",
+      "HireDate": "1998-06-03",
+      "Permenent": false,
+      "id": 4
+    },
+    {
+      "FirstName": "hardik",
+      "Email": "hardik@gmail.com",
+      "Mobile": "6786798678",
+      "Address": [
+        {
+          "myaddress": "valsad"
+        },
+        {
+          "myaddress": "dungri"
+        }
+      ],
+      "Gender": "male",
+      "DeptName": "UI",
+      "HireDate": "2019-12-02",
+      "Permenent": false,
+      "id": 5
+    },
+    {
+      "FirstName": "aayu",
+      "Email": "aayu@gmail.com",
+      "Mobile": "7878789090",
+      "Address": [
+        {
+          "myaddress": "valsad"
+        },
+        {
+          "myaddress": "dungri"
+        }
+      ],
+      "Gender": "female",
+      "DeptName": "UI",
+      "HireDate": "1995-05-06",
+      "Permenent": true,
+      "id": 6
+    },
+    {
+      "FirstName": "ketan",
+      "Email": "ketan@gmail.com",
+      "Mobile": "9999900000",
+      "Address": [
+        {
+          "myaddress": "atul"
+        },
+        {
+          "myaddress": "abc"
+        }
+      ],
+      "Gender": "male",
+      "DeptName": ".Net",
+      "HireDate": "2019-09-09",
+      "Permenent": true,
+      "id": 7
+    },
+    {
+      "FirstName": "vimal",
+      "Email": "vimal@gmail.com",
+      "Mobile": "7897856765",
+      "Address": [
+        {
+          "myaddress": "pune"
+        }
+      ],
+      "Gender": "male",
+      "DeptName": "Angular",
+      "HireDate": "2019-10-06",
+      "Permenent": true,
+      "id": 8
+    },
+    {
+      "FirstName": "shrey",
+      "Email": "shrey@gmail.com",
+      "Mobile": "9999444454",
+      "Address": [
+        {
+          "myaddress": "mumbai"
+        },
+        {
+          "myaddress": "indiagate"
+        }
+      ],
+      "Gender": "male",
+      "DeptName": "UI",
+      "HireDate": "2020-01-26",
+      "Permenent": true,
+      "id": 9
+    }
+  ],
+  "department": [
+    "Angular",
+    "UI",
+    ".Net",
+    "ML",
+    "Networking"
+  ]
+}
